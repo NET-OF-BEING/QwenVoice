@@ -29,7 +29,7 @@ Voice-activated AI assistant powered by Qwen2.5-7B running locally with llama.cp
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/QwenVoice.git
+git clone https://github.com/NET-OF-BEING/QwenVoice.git
 cd QwenVoice
 ```
 
